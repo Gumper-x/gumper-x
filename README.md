@@ -14,3 +14,7 @@ I live in Kyiv 🏠. I am currently working as a Front-end developer at <a href=
 - 💬 Ask me about anything and everything.
 - 🍭Check my Twitter Account [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gumper_x)
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gumper-x)
+
+## 🧮 Statistics
+
+<img alt="Furkan-Gulsen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumper-x&theme=blue-green" height="300px"/>
