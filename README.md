@@ -2,23 +2,14 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/Furkan-Gulsen) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammed-furkan-gulsen/) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.furkangulsen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gumper-x/) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andrey_b_x) 
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumper2002@gmail.com)
  
 I am Andrii Berezhnyi 👨‍🦱
 
 I live in Istanbul 🏫. I developed myself on the web for over 6 years. I am currently working as a Backend developer at <a href="https://www.linkedin.com/company/ikas-com/mycompany/">IKAS</a>👨‍💻. 
 
-## 👯 Communities
-- Google DSC Mentor (2022-♾)
-- Leader Development Program (LIGEP) - Trainee (2022-♾)
-- BEU Google Developer Student Club (DSC) - Lead (2021-2022)
-- Microsoft Imaginer - Student Ambassador (2021-2022)
-- Global AI Hub - Core Team (2021 - 2022)
-- TensorFlow Turkey - Core Team (2021 - 2022)
-- BEU Google Developer Student Club (DSC) - Core Team (2020 - 2021)
-- BEU Software Engineering Club - Core Team (2020 - 2021)
-- Facebook Developer Circle - Core Team (2019-2020)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (Angular)**
@@ -37,12 +28,3 @@ Talk to me about
 - 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@furkangulsen)
 - 🎯 Check out my Instagram page (54k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/codeblogger/)
 - 💁‍♂️ View also review my Kaggle works: [![KAGGLE](https://img.shields.io/badge/FOLLOW%20ME-KAGGLE-yellow?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/codeblogger)
-
-
-## 📈 Github Stats
-
-<a href="https://github.com/Furkan-Gulsen/Furkan-Gulsen">
- <img alt="Furkan-Gulsen's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gumper-x&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-
-<a href="https://app.daily.dev/gumper"><img src="https://api.daily.dev/devcards/6a28a50f74ad448f80c4d98e34f1f9b4.png?r=twp" width="400" alt="Andrii Berezhnyi's Dev Card"/></a>
