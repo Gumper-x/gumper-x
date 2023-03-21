@@ -9,6 +9,3 @@
 I am Andrii Berezhnyi 👨‍🦱
 
 I live in Kyiv 🏠. I am currently working as a Front-end developer👨‍💻. 
-
-## 🤔 Hello World!! 
-- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gumper-x)
